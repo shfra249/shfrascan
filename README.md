@@ -12,8 +12,7 @@
 لا حسابات، لا إعلانات، لا قياسات، لا علامة مائية، ولا سحابة. التطبيق لا يطلب
 إذن `INTERNET` أصلاً.
 
-shfrascan غير تابع لـ CamScanner أو مشتق منه أو معتمد منه، ولا لأي ماسح تجاري
-آخر. لا يحتوي على أي شيفرة أو أصول أو علامات تجارية خاصة بتلك المنتجات.
+
 
 ## الميزات
 
@@ -175,9 +174,7 @@ image layers, one-tap privacy redaction, and sharing or printing.
 There is no account, no ads, no telemetry, no watermark, and no cloud. The app
 does not even request the `INTERNET` permission.
 
-shfrascan is not affiliated with, derived from, or endorsed by CamScanner or any
-other commercial scanner. It contains no proprietary code, assets, or branding
-from those products.
+
 
 ## Features
 
