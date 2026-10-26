@@ -19,6 +19,6 @@ exported PDFs. Tesseract language files are data, not code, and are
 redistributed under the Apache License 2.0 together with their upstream
 provenance.
 
-Android, Google Play, CamScanner, and other names are trademarks of their
+Android, Google Play and other names are trademarks of their
 respective owners. shfrascan is an independent project and is not affiliated
 with any of them.
